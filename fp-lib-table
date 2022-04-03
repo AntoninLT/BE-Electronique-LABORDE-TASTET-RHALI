@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "importation")(type "KiCad")(uri "/home/lin-apc/Bureau/COURS_INSA/BE elec/Routage/lib/CmpAmpliAudioTR.pretty")(options "")(descr ""))
+)

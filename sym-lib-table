@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "projetBE")(type "Legacy")(uri "/home/lin-apc/Bureau/COURS_INSA/BE elec/Routage/lib/CmpAmpliAudioTR.lib")(options "")(descr "audio"))
+)
