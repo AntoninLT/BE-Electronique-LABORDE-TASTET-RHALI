@@ -7,9 +7,9 @@
   (title_block
     (title "Schéma Ampli Audio Laborde-Tastet / Rahli")
     (company "3 IMACS Groupe E")
-    (comment 1 "Version 4")
-    (comment 2 "Retrait d' 1 des 3 straps,  branchement du + 12V entre C9 et C4")
-    (comment 3 "plan de masse  + nom en couche Bottom")
+    (comment 1 "Version 5")
+    (comment 2 "strap en horizontal au lieux de diagonal")
+    (comment 3 "Pistes élargies")
     (comment 4 "modifs:")
   )
 
